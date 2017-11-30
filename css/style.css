@@ -51,3 +51,7 @@ figcaption {
 }
 
 /* psuedo class selector */
+
+#details a:link {
+
+}
