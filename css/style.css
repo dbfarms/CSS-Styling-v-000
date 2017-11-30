@@ -37,5 +37,11 @@ figcaption {
 
 /* id selector only for one unique elemnt per page*/
 #logo {
-  background-color: red;
+  background-color: aqua;
+}
+
+/* descendant selector */
+
+#logo h1 { /* selects h1s inside id="logo" */
+  font-family: 'Clicker Script', cursive;
 }
