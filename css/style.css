@@ -61,3 +61,8 @@ figcaption {
   color: black;
   tex-decoration: underline;
 }
+
+#details a.active {
+  color: red;
+
+}
